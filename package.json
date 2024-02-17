@@ -11,5 +11,8 @@
     "url": "readmeGenerator.git"
   },
   "author": "gnavea",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
 }
