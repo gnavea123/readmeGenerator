@@ -17,7 +17,11 @@ Create a command-line application that accepts user input. The resulting input w
 
 # Installation
 
+Need to ensure that inquirer module is intalled via npm
+
 # Usage
+
+Running node index.js
 
 # License
 
